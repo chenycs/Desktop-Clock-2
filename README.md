@@ -1,5 +1,5 @@
 # Desktop-Clock-2
-Desktop Clock APP
+Desktop Clock APP V0.8
 
 1. 靜態數字時鐘，動態數字時鐘。
 2. 陽曆農曆顯示。
