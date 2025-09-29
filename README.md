@@ -7,5 +7,13 @@ Desktop Clock APP V0.8
 4. 齋日提醒。
 5. 開機自動執行。
 6. 可自定義時鐘顏色。
-7. 介面 : 繁中，簡中，英文
+7. 介面 : 繁中，簡中，英文。
+8. 行程提醒。
 
+<img width="354" height="114" alt="Main" src="https://github.com/user-attachments/assets/df5e3494-c40c-4e16-9385-1b35e0fb1d83" />
+-----------------------------------------------
+<img width="429" height="636" alt="Setup" src="https://github.com/user-attachments/assets/c235edc5-64f7-4ed7-8330-0371a2655992" />
+-----------------------------------------------
+<img width="774" height="318" alt="Schedule" src="https://github.com/user-attachments/assets/fc0b6e3d-7a83-4c51-ac22-e0b38337e27d" />
+-----------------------------------
+<img width="410" height="614" alt="ScheduleEdit" src="https://github.com/user-attachments/assets/6694c060-9be6-4525-8d8c-8d454a7ea23a" />
