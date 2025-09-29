@@ -32,7 +32,7 @@ Desktop Clock APP V0.8
 
 
 -----------------------------------------------
---- Schedulw edit ---
+--- Schedule edit ---
 
 
 <img width="410" height="614" alt="ScheduleEdit" src="https://github.com/user-attachments/assets/6694c060-9be6-4525-8d8c-8d454a7ea23a" />
