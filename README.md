@@ -39,6 +39,14 @@ Desktop Clock APP V0.8
 
 
 -----------------------------------------------
+--- Schedule popup ---
+
+
+<img width="402" height="308" alt="PopupWindow" src="https://github.com/user-attachments/assets/820052c6-5787-4ef5-a574-c3f1493e92d7" />
+
+
+
+-----------------------------------------------
 --- Continue ... ---
 
 
