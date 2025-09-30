@@ -12,9 +12,10 @@ Desktop Clock APP V0.8
 
 
 
+
 --- Main ---
 
-<img width="354" height="114" alt="Main" src="https://github.com/user-attachments/assets/df5e3494-c40c-4e16-9385-1b35e0fb1d83" />
+![Main](https://github.com/user-attachments/assets/9c869347-4315-4a5e-a38c-d932c4dddd25)
 
 
 -----------------------------------------------
@@ -35,7 +36,7 @@ Desktop Clock APP V0.8
 --- Schedule edit ---
 
 
-<img width="410" height="614" alt="ScheduleEdit" src="https://github.com/user-attachments/assets/6694c060-9be6-4525-8d8c-8d454a7ea23a" />
+<img width="410" height="614" alt="ScheduleEdit" src="https://github.com/user-attachments/assets/e0d92d76-4184-42cc-9898-d8a4a80bac94" />
 
 
 -----------------------------------------------
