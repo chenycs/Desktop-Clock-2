@@ -1,4 +1,4 @@
-# Desktop-Clock-2
+# Desktop-Clock-2 (for windows only)
 Desktop Clock APP V0.8
 
 1. 靜態數字時鐘，動態數字時鐘。
